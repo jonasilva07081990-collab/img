@@ -16,3 +16,4 @@ Links diretos das imagens para utilização nos scripts. Os formatos e os fichei
 | [img10.png](img10.png) | 1254 × 1254 | [Abrir imagem](https://cdn.jsdelivr.net/gh/jonasilva07081990-collab/img@main/img10.png) |
 | [img11.png](img11.png) | 1254 × 1254 | [Abrir imagem](https://cdn.jsdelivr.net/gh/jonasilva07081990-collab/img@main/img11.png) |
 | [img12.png](img12.png) | 1536 × 1024 | [Abrir imagem](https://cdn.jsdelivr.net/gh/jonasilva07081990-collab/img@main/img12.png) |
+| [img13.gif](img13.gif) | 512 × 512 — GIF animado, logo central sem latas laterais, fundo transparente e lasers em movimento | [Abrir imagem](https://cdn.jsdelivr.net/gh/jonasilva07081990-collab/img@main/img13.gif) |
